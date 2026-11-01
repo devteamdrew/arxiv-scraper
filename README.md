@@ -1,6 +1,6 @@
-# arXiv Scraper – Papers, Abstracts & Authors Search
+# arXiv Scraper – Paper Search, Abstracts & Authors
 
-Search arXiv by keyword, author, category (cs.AI, cs.CL, stat.ML...) or paper ID and export titles, abstracts, authors, categories, PDF links and DOIs from the official arXiv API. LLM-ready, incremental, pay per result.
+arXiv scraper and paper search: find research papers by keyword, author, category (cs.AI, cs.CL, stat.ML...) or ID and export titles, abstracts, authors, PDF links and DOIs from the official arXiv API.
 
 **[Run it on Apify →](https://apify.com/devteamdrew/arxiv-scraper?utm_source=github&utm_medium=readme&utm_campaign=arxiv-scraper&utm_content=hero)** (pay per result, free Apify account to start)
 
@@ -72,15 +72,15 @@ Browse real sample rows, download a free CSV sample and see ready-made feeds at 
 
 ## More data actors
 
-- [Bluesky Scraper & API – Posts, Profiles & Search](https://apify.com/devteamdrew/bluesky-scraper?utm_source=github&utm_medium=readme&utm_campaign=arxiv-scraper&utm_content=more)
-- [Companies House Scraper – UK Company Data, Directors & Filings](https://apify.com/devteamdrew/companies-house-scraper?utm_source=github&utm_medium=readme&utm_campaign=arxiv-scraper&utm_content=more)
+- [Bluesky Scraper – Posts, Profiles & Search](https://apify.com/devteamdrew/bluesky-scraper?utm_source=github&utm_medium=readme&utm_campaign=arxiv-scraper&utm_content=more)
+- [UK Companies House Scraper – Companies & Directors](https://apify.com/devteamdrew/companies-house-scraper?utm_source=github&utm_medium=readme&utm_campaign=arxiv-scraper&utm_content=more)
 - [UK Planning Applications Scraper – 400+ Councils & Postcodes](https://apify.com/devteamdrew/uk-planning-applications?utm_source=github&utm_medium=readme&utm_campaign=arxiv-scraper&utm_content=more)
-- [Hacker News Scraper – Stories, Comments & Who Is Hiring Jobs](https://apify.com/devteamdrew/hacker-news-scraper?utm_source=github&utm_medium=readme&utm_campaign=arxiv-scraper&utm_content=more)
-- [npm Scraper – Package Downloads, Dependencies & Maintainers](https://apify.com/devteamdrew/npm-package-scraper?utm_source=github&utm_medium=readme&utm_campaign=arxiv-scraper&utm_content=more)
+- [Hacker News Scraper – Stories, Comments & Jobs](https://apify.com/devteamdrew/hacker-news-scraper?utm_source=github&utm_medium=readme&utm_campaign=arxiv-scraper&utm_content=more)
+- [npm Package Scraper – Downloads & Dependencies](https://apify.com/devteamdrew/npm-package-scraper?utm_source=github&utm_medium=readme&utm_campaign=arxiv-scraper&utm_content=more)
 - [GitHub Trending Scraper – Repos, Stars & Developers](https://apify.com/devteamdrew/github-trending-scraper?utm_source=github&utm_medium=readme&utm_campaign=arxiv-scraper&utm_content=more)
 - [Mastodon Scraper – Fediverse Hashtags, Accounts & Trends](https://apify.com/devteamdrew/mastodon-scraper?utm_source=github&utm_medium=readme&utm_campaign=arxiv-scraper&utm_content=more)
 - [Lemmy Scraper – Posts, Comments & Communities (Fediverse)](https://apify.com/devteamdrew/lemmy-scraper?utm_source=github&utm_medium=readme&utm_campaign=arxiv-scraper&utm_content=more)
-- [SEC EDGAR Scraper – Filings Search, 10-K, 10-Q & 8-K](https://apify.com/devteamdrew/sec-edgar-scraper?utm_source=github&utm_medium=readme&utm_campaign=arxiv-scraper&utm_content=more)
+- [SEC EDGAR Scraper – 10-K, 10-Q & 8-K Filings](https://apify.com/devteamdrew/sec-edgar-scraper?utm_source=github&utm_medium=readme&utm_campaign=arxiv-scraper&utm_content=more)
 
 ## License
 
